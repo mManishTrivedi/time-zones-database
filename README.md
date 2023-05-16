@@ -8,7 +8,7 @@ Wikipedia Link: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones'
 
 
 ## Setup 
-yarn .
+yarn install
 
 ## Run
-node scrapping.js
+yarn start or node scrapping.js
