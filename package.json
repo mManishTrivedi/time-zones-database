@@ -8,5 +8,9 @@
     "cheerio": "^1.0.0-rc.10",
     "request": "^2.88.2",
     "request-promise": "^4.2.6"
+  },
+  "scripts": {
+    "start": "node scrapping.js"
   }
+
 }
